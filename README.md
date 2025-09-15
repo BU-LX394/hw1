@@ -15,6 +15,8 @@ You are free to use any resources to help you with this assignment, including bo
 
 You will need to complete your code problems in Python 3, preferably Python 3.8 or later. Apart from the standard Python libraries, the only dependency required for this assignment is [NLTK](https://www.nltk.org/). The problem set itself is a Jupyter notebook; it is highly recommended that you are able to run notebooks on your own computer in order to complete this assignment.
 
+For this assignment, you will be working with the ChatGPT vs. Wikipedia corpus that we have been discussing in class. Please [download the corpus from Sophie's Google Drive](https://drive.google.com/file/d/1qH9bj9yWJGsqXRtUUpvwGhMsi_x1Z7nB/view) and make sure that it is saved to the same folder where your `hw1.py` and `hw1-pset.ipynb` files are located.
+
 ## Submission
 
 For your submission, please upload the following files to [Gradescope](https://www.gradescope.com):
